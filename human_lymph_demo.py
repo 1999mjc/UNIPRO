@@ -23,7 +23,7 @@ from torch_geometric.utils import from_scipy_sparse_matrix
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-
+## the dataset of spatial human lymph ccould be download from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263617
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTDIR = Path(__file__).resolve().parent / "continuous_edge_graph_demo"
 OUTDIR.mkdir(parents=True, exist_ok=True)
