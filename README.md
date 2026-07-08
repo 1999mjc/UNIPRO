@@ -77,7 +77,7 @@ python human_lymph_demo.py
 Remote-server example:
 
 ```bash
-/home/user/miniconda3/envs/myspatial/bin/python -u /home/user/Code/myspatial/spatial_human_lymph_new/human_lymph_demo.py
+/home/user/miniconda3/envs/UNIPRO/bin/python -u /home/user/Code/UNIPRO/human_lymph_demo.py
 ```
 
 The demo performs the complete experiment:
@@ -116,11 +116,11 @@ The workflow writes reproducible artifacts to the following locations:
 
 | Output | Location |
 | --- | --- |
-| Predicted protein matrix for slice B | `spatial_human_lymph_new/results_demo/predicted_protein_B_fused_edge.csv` |
-| Measured protein matrix for slice B | `spatial_human_lymph_new/results_demo/true_protein_B_fused_edge.csv` |
-| Protein-level evaluation metrics | `spatial_human_lymph_new/results_demo/evaluation_metrics_B_fused_edge.csv` |
-| Metric boxplot | `spatial_human_lymph_new/results_demo/metrics_combined_A_to_B_fused_edge.png` |
-| Best model checkpoint | `spatial_human_lymph_new/weights_dir_demo/best_model_A_to_B_fused_edge.pt` |
+| Predicted protein matrix for slice B | `results_demo/predicted_protein_B.csv` |
+| Measured protein matrix for slice B | `results_demo/true_protein_B.csv` |
+| Protein-level evaluation metrics | `results_demo/evaluation_metrics_B.csv` |
+| Metric boxplot | `results_demo/metrics_combined_A_to_Be.png` |
+| Best model checkpoint | `weights_dir_demo/best_model_A_to_B.pt` |
 
 ## Evaluation
 
