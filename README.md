@@ -8,13 +8,6 @@ UNIPRO is a graph-based framework for inferring protein expression from transcri
 
 *Overview of the UNIPRO framework.*
 
-The source model figure is stored at:
-
-```text
-C:\Users\12146\Desktop\新建文件夹 (2)\model.tif
-```
-
-If the Markdown viewer cannot render `.tif` images, export the figure as `.png` and update the image path.
 
 ## Overview
 
