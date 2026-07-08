@@ -2,12 +2,8 @@
 
 UNIPRO is a graph-based framework for inferring protein expression from transcriptomic profiles while explicitly modeling spatial/feature neighborhood relationships. In this human lymph demo, UNIPRO learns from paired RNA-protein measurements in slice A and transfers the trained model to slice B to reconstruct protein profiles.
 
-`RNA features -- spatial and expression graph fusion -- dynamic edge refinement -- edge-aware GAT -- protein prediction`
-
-![UNIPRO model figure](<C:/Users/12146/Desktop/新建文件夹 (2)/model.tif>)
-
 *Overview of the UNIPRO framework.*
-
+![UNIPRO model figure](</model.png>)
 
 ## Overview
 
