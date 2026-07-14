@@ -145,5 +145,5 @@ results_demo/metrics_combined_A_to_B_fused_edge.png
 ```
 
 ## datasets
-The datasets used by UNIPRO can be download from https://zenodo.org/uploads/21290508.
+The datasets used by UNIPRO and main results can be download from https://zenodo.org/uploads/21290508.
 
