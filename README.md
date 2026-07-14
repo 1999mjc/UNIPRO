@@ -147,3 +147,6 @@ results_demo/metrics_combined_A_to_B_fused_edge.png
 ## datasets
 The datasets used by UNIPRO and main results can be download from https://zenodo.org/uploads/21290508.
 
+##Acknowledgement
+We sincerely thank the authors of SpatialGlue and all other dataset contributors for providing valuable data support and making their data publicly available for this study.
+
